@@ -21,11 +21,11 @@ A simple yet effective AI-based movie recommendation system that suggests movies
 
 
 1.In terminal or command prompt:
-python recommender.py
-.
+python recommender.py .
+
 2.When asked:
-Enter movies you've watched (comma separated): barfi!, pk, andhadhun
-.
+Enter movies you've watched (comma separated): barfi!, pk, andhadhun .
+
 3.Sample Output with Inputs
 Top Movie Recommendations for You:
 
